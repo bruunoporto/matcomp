@@ -1,0 +1,2 @@
+# matcomp
+creates a perceptron
